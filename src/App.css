@@ -6,7 +6,8 @@
   grid-template-columns: 2fr 10fr;
   grid-template-areas: 
   "h h h h"
-  "n c c c"
+  "n c c c";
+  grid-gap: 1em;
               
 }
 
