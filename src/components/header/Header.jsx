@@ -5,7 +5,8 @@ import s from './Header.module.css'
 const Header = () => {
     return (
         <header className={s.header}>
-        <img src="https://uc.agronews.com/sitelogomain/i/1579001627_21339116715e1da71b0ff535.71571325.png" alt='logo' />
+        <img src="https://i.pinimg.com/originals/45/1c/47/451c479f1299378b9d3b10f7dd179191.png" alt='logo' />
+        <div className={s.appName}>World of Murloc</div>
       </header>
     );
 }
